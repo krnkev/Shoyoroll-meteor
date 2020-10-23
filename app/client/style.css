@@ -1,0 +1,49 @@
+
+#navBar{
+    margin:0px 50px 0px 50px;
+    background-color: #white;
+
+}
+
+#navBar2{
+    margin-left: 0px;
+    background-color: #white;
+}
+
+
+button {
+    text-align:center;
+}
+
+body, a{
+    color: white;
+}
+
+
+
+
+img{
+    padding-top:20px;
+}
+
+.footer-background {
+    background-color: #white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+
+}
+.ui.borderless.menu {
+    background-color: #f7f7f7;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+}
+
+.footer-background {
+    text-align:center;
+    background-color: #white;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    color: black;
+}
